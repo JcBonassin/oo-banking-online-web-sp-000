@@ -5,7 +5,7 @@ class Transfer
     @amount = amount
     @sender = sender
     @receiver = receiver
-    @status = status
+    @status = "open"
   end
 
 
