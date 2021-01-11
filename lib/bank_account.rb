@@ -3,6 +3,6 @@ class BankAccount
 
   def initilize(BankAccount)
     @BankAccount = BankAccount
-  end 
+  end
 
 end
