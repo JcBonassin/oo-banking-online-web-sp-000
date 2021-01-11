@@ -3,9 +3,9 @@ class Transfer
 
   def initialize
     @amount = amount
-    @sender = sender 
+    @sender = sender
     @receiver = receiver
-  end 
+  end
 
 
 end
