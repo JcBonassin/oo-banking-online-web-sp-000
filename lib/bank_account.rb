@@ -3,7 +3,6 @@ class BankAccount
 
   def initilize(name, BankAccount)
     @name = name
-    @BankAccount = []
   end
 
 end
