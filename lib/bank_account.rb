@@ -13,6 +13,6 @@ class BankAccount
   end
 
   def display_balance
-    self.deposit = balance
+    self.deposit = @balance
   end
 end
