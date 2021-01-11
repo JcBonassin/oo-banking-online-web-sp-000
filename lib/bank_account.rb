@@ -20,7 +20,7 @@ class BankAccount
     @balance > 0 && status == "open"
   end
 
-  def def close_account
+  def close_account
     self.status = "closed"
   end
 
